@@ -1,0 +1,72 @@
+{
+  "locations": {
+    "dows-lake": {
+      "iceThickness": {
+        "min": 20,
+        "max": 40,
+        "variation": 2
+      },
+      "surfaceTemperature": {
+        "min": -10,
+        "max": 0,
+        "variation": 1
+      },
+      "snowAccumulation": {
+        "min": 0,
+        "max": 15,
+        "variation": 1
+      },
+      "externalTemperature": {
+        "min": -15,
+        "max": 5,
+        "variation": 2
+      }
+    },
+    "fifth-avenue": {
+      "iceThickness": {
+        "min": 20,
+        "max": 40,
+        "variation": 2
+      },
+      "surfaceTemperature": {
+        "min": -10,
+        "max": 0,
+        "variation": 1
+      },
+      "snowAccumulation": {
+        "min": 0,
+        "max": 15,
+        "variation": 1
+      },
+      "externalTemperature": {
+        "min": -15,
+        "max": 5,
+        "variation": 2
+      }
+    },
+    "nac": {
+      "iceThickness": {
+        "min": 20,
+        "max": 40,
+        "variation": 2
+      },
+      "surfaceTemperature": {
+        "min": -10,
+        "max": 0,
+        "variation": 1
+      },
+      "snowAccumulation": {
+        "min": 0,
+        "max": 15,
+        "variation": 1
+      },
+      "externalTemperature": {
+        "min": -15,
+        "max": 5,
+        "variation": 2
+      }
+    }
+  },
+  "sendInterval": 10
+}
+
